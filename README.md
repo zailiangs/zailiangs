@@ -5,7 +5,7 @@
 > Currently living **Nanjing, Jiangsu**.  
 > Open source enthusiast.  
 
-- 📝 My Blog: [zailiangs.com](https://zailiangs.com)  
+- 📝 My Blog: <a href="https://github.com/zailiangs" target="_blank">zailiangs.com</a>
 - 💻 Position: Back-end development
 - 🎮 Favorite Game: Valorant & Genshin Impact 🌠
 - 📫 How to reach me:  
