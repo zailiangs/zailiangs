@@ -1,9 +1,9 @@
 # Hi ❗ 👋  
 ## Nice to meet you. 😉  
 
-> I'm **Zailiang Sun** ☀️  
-> A software engineer from **China**.  
-> Currently living **Nanjing, Jiangsu**.  
+> I'm ***Zailiang Sun*** ☀️  
+> A software engineer from ***China***.  
+> Currently living ***Nanjing, Jiangsu***.  
 > Open source enthusiast.  
 
 - 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
