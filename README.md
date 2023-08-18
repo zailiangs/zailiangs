@@ -3,7 +3,7 @@
 
 > I'm ***Zailiang Sun*** ☀️  
 > A software engineer from ***China***.  
-> Currently living ***Nanjing, Jiangsu***.  
+> Currently living ***Nanjing***.  
 > Open source enthusiast.  
 
 - 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
