@@ -24,7 +24,7 @@
   <a href="https://twitter.com/sunzailiang" target="_blank">
   <img src="https://img.shields.io/badge/X-sunzailiang-black.svg?logo=x"/>
   </a>
-  <a href="https://www.wechat.com/en" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
+  <a href="https://www.wechat.com" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
   </a>
 
 - ⌨️ **Things I code with:**  
