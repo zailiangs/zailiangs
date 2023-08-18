@@ -12,7 +12,7 @@
 
 - 🌟 **Target:** Full-stack development
 
-- 🎮 **Favorite Game:** Valorant & Genshin Impact 🌠
+- 🎮 **Favorite Game:** Valorant & Genshin Impact
 
 - 📫 **How to reach me:**  
   <a href="https://github.com/zailiangs" target="_blank">
