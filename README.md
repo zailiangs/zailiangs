@@ -21,9 +21,6 @@
   <a href="https://gitee.com/zailiang" target="_blank">
   <img src="https://img.shields.io/badge/Gitee-zailiang-purple.svg?logo=gitee&logoColor=c00000"/>
   </a>
-  <a href="https://twitter.com/sunzailiang" target="_blank">
-  <img src="https://img.shields.io/badge/X-sunzailiang-black.svg?logo=x"/>
-  </a>
   <a href="https://www.wechat.com" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
   </a>
 
