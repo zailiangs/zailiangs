@@ -1,21 +1,9 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Sun%20Zailiang%20;孙再亮
-    &font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
-    </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;3%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22"/>
-    </a>
-</p>
-
-# Hi ! <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="30px">
-
+# Hi ! <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="24px">
 ## Nice to meet you. 😉  
 
-> I'm ***Zailiang Sun*** ☀️  
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=%2F%2F+Back-end+web+and+app+developer;%2F%2F+4+years+of+coding+experience;%2F%2F+Always+learning+new+things"/>
+
+> I'm <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=800&height=30&size=20&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
 > A software engineer from ***China***.  
 > Currently living ***Nanjing***.  
 > Open source enthusiast.  
@@ -28,15 +16,18 @@
 
 - 🎮 **Favorite Game:** Valorant & Genshin Impact
 
-- 📫 **How to reach me:**  
+- 📫 **Find me around the web:**  
   <a href="https://github.com/zailiangs" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-zailiangs-darkblue.svg?logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-zailiangs-000000.svg?logo=github&logoColor=000000"/>
   </a>
   <a href="https://gitee.com/zailiang" target="_blank">
-  <img src="https://img.shields.io/badge/Gitee-zailiang-purple.svg?logo=gitee&logoColor=c00000"/>
+  <img src="https://img.shields.io/badge/Gitee-zailiang-c00000.svg?logo=gitee&logoColor=c00000"/>
   </a>
-  <a href="https://www.wechat.com" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
+  <a href="https://steamcommunity.com/id/zailiang" target="_blank"><img src="https://img.shields.io/badge/Steam-zailiang-162c59.svg?logo=steam&logoColor=162c59"/>
   </a>
+  <a href="https://wechat.com" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
+  </a>
+
 
 - ⌨️ **Things I code with:**  
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=ffffff)
