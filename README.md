@@ -3,10 +3,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=%2F%2F+Back-end+web+and+app+developer;%2F%2F+4+years+of+coding+experience;%2F%2F+Always+learning+new+things"/>
 
-> I'm <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=800&height=30&size=20&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
+> I'm <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=1000&height=30&size=20&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
 > A software engineer from ***China***.  
 > Currently living ***Nanjing***.  
 > Open source enthusiast.  
+
+<img src="./imgs/developer.gif" align="right">
 
 - 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
 
@@ -21,13 +23,14 @@
   <img src="https://img.shields.io/badge/GitHub-zailiangs-000000.svg?logo=github&logoColor=000000"/>
   </a>
   <a href="https://gitee.com/zailiang" target="_blank">
-  <img src="https://img.shields.io/badge/Gitee-zailiang-c00000.svg?logo=gitee&logoColor=c00000"/>
+  <img src="https://img.shields.io/badge/Gitee-zailiang-de1f48.svg?logo=gitee&logoColor=de1f48"/>
   </a>
   <a href="https://steamcommunity.com/id/zailiang" target="_blank"><img src="https://img.shields.io/badge/Steam-zailiang-162c59.svg?logo=steam&logoColor=162c59"/>
   </a>
   <a href="https://wechat.com" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
   </a>
 
+  <img src="./imgs/coding.gif" align="right" width="30%">
 
 - ⌨️ **Things I code with:**  
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=ffffff)
