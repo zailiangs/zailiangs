@@ -8,7 +8,7 @@
 > Currently living ***Nanjing***.  
 > Open source enthusiast.  
 
-<img src="./imgs/developer.gif" align="right">
+  <img src="./imgs/coding.gif" align="right" width="30%">
 
 - 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
 
@@ -29,8 +29,6 @@
   </a>
   <a href="https://wechat.com" target="_blank"><img src="https://img.shields.io/badge/WeChat-iZailiang-438a32.svg?logo=wechat"/>
   </a>
-
-  <img src="./imgs/coding.gif" align="right" width="30%">
 
 - ⌨️ **Things I code with:**  
 ![Java](https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=ffffff)
