@@ -8,7 +8,7 @@
 > Currently living ***Nanjing***.  
 > Open source enthusiast.  
 
-<img src="./imgs/coding.gif" align="right" width="30%">
+<img src="./imgs/coding.gif" align="right" width="200px">
 
 - 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
 
