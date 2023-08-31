@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=%2F%2F+Back-end+web+and+app+developer;%2F%2F+4+years+of+coding+experience;%2F%2F+Always+learning+new+things"/>
 
-> I'm <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=800&height=30&size=20&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
+> I'm <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=1000&height=30&size=20&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
 > A software engineer from ***China***.  
 > Currently living ***Nanjing***.  
 > Open source enthusiast.  
