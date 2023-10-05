@@ -1,4 +1,5 @@
-# Hi !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="24px">
+# Hi !  
+<img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="24px">
 
 ## Nice to meet you. 😉  
 
