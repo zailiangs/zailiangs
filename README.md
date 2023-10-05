@@ -1,5 +1,5 @@
-# Hi ! 
-<img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="24px">
+# Hi !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="24px">
+
 ## Nice to meet you. 😉  
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=%2F%2F+Back-end+web+and+app+developer;%2F%2F+4+years+of+coding+experience;%2F%2F+Always+learning+new+things"/>
