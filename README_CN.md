@@ -1,28 +1,28 @@
-# Hi !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> Nice to meet you
+# 你好 !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> 很高兴见到你
 
-#### Chinese introduction click 👉 [中文自介](./README_CN.md)  
+#### 英文介绍点击 👉 [英文自介](./README.md)  
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=Back-end+web+and+app+developer;4+years+of+coding+experience;Always+learning+new+things"/>  
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=后端网页和APP开发者;4年工作经验;总是在学习新事物"/>  
 
-> I'm <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=1000&height=40&size=26&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
-> Born in 1997.  
-> A software development engineer from **Nanjing, China**.  
-> Open source enthusiast.  
-> Like playing Genshin Impact.
+> 我叫 <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=1000&height=40&size=26&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
+> 生于 1997 年。  
+> 一位软件开发工程师来自于 **中国南京**。  
+> 开源爱好者。  
+> 喜欢玩原神。
 
 ---
 
 <img src="./imgs/coding.gif" align="right" width="150px">
 
-- 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
+- 📝 **我的博客:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
 
-- 📧 **My Email:** zailiangs@outlook.com
+- 📧 **我的邮箱:** zailiangs@outlook.com
 
-- 🧑‍💻 **Position:** Back-end development
+- 🧑‍💻 **职位:** 后端开发
 
-- 🎯 **Target:** Full-stack development
+- 🎯 **目标:** 全栈开发
 
-- 💻 **Technology stack:**  
+- 💻 **技术栈:**  
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white")
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=000000)
@@ -49,7 +49,7 @@
 ![Conda](https://img.shields.io/badge/Conda-44A833.svg?logo=anaconda&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=ffffff)
 
-- 🛠️ **Development tools:**  
+- 🛠️ **开发工具:**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC.svg?logo=visualstudiocode&logoColor=ffffff)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-fe355d.svg?logo=intellijidea&logoColor=ffffff)
 ![PyCharm](https://img.shields.io/badge/PyCharm-25b831.svg?logo=pycharm&logoColor=ffffff)
@@ -61,7 +61,7 @@
 ![Charles](https://img.shields.io/badge/Charles-02afb8.svg?logo=charles&logoColor=ffffff)
 ![Apifox](https://img.shields.io/badge/Apifox-fc4573.svg?logo=apifox&logoColor=ffffff)
 
-- 🖥️ **Skillful operation system:**  
+- 🖥️ **善于的操作系统:**  
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?logo=centos&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=ffffff)
 ![MacOS](https://img.shields.io/badge/MacOS-000000.svg?logo=apple&logoColor=ffffff)
@@ -69,7 +69,7 @@
 
 ---
 
-###### If you are interested in me, you can add my <u>Wechat</u> or <u>Twitter</u> for further communication. 🤝
+###### 如果你对我感兴趣，可以加我的 <u>微信</u> 或 <u>推特</u> 进一步的沟通。 🤝
 <p align="center">
-    <a href="https://www.wechat.com/en" target="_blank"><img src="https://img.shields.io/badge/WeChat ID-iZailiang-438a32.svg?logo=wechat" /> </a> 
+    <a href="https://www.wechat.com/en" target="_blank"><img src="https://img.shields.io/badge/微信号-iZailiang-438a32.svg?logo=wechat" /> </a> 
 </p>
