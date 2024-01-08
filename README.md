@@ -1,6 +1,6 @@
 # Hi !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> Nice to meet you
 
-#### Chinese introduction click 👉 [中文自介](./README_CN.md)  
+#### [Chinese introduction](./README_CN.md)  
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=Back-end+web+and+app+developer;4+years+of+coding+experience;Always+learning+new+things"/>  
 

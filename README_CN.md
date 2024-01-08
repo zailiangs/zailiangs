@@ -1,6 +1,6 @@
 # 你好 !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> 很高兴见到你
 
-#### 英文介绍点击 👉 [英文自介](./README.md)  
+#### [英文介绍](./README.md)  
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=后端网页和APP开发者;4年工作经验;总是在学习新事物"/>  
 
@@ -16,7 +16,7 @@
 
 - 📝 **我的博客:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
 
-- 📧 **我的邮箱:** zailiangs@outlook.com
+- 📧 **我的邮箱:** zailiangs@qq.com
 
 - 🧑‍💻 **职位:** 后端开发
 
