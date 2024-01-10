@@ -1,12 +1,12 @@
-# 你好 !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> 很高兴见到你
+# 你好 ！<img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> 很高兴见到你
 
-#### [英文介绍](./README.md)  
+##### [英文介绍](./README.md)  
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=后端网页和APP开发者;4年工作经验;总是在学习新事物"/>  
 
 > 我叫 <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=1000&height=40&size=26&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
 > 生于 1997 年。  
-> 一位软件开发工程师来自于 **中国南京**。  
+> 一位软件开发工程师来自于**中国南京**。  
 > 开源爱好者。  
 > 喜欢玩原神。
 
@@ -69,7 +69,9 @@
 
 ---
 
-###### 如果你对我感兴趣，可以加我的 <u>微信</u> 或 <u>推特</u> 进一步的沟通。 🤝
+###### 如果你对我感兴趣，可以加我的 <u>微信</u> 进一步的沟通。 🤝
 <p align="center">
-    <a href="https://www.wechat.com/en" target="_blank"><img src="https://img.shields.io/badge/微信号-iZailiang-438a32.svg?logo=wechat" /> </a> 
+    <a href="https://www.wechat.com/en" target="_blank">
+    <img src="https://img.shields.io/badge/微信号-iZailiang-438a32.svg?logo=wechat" />
+    </a> 
 </p>

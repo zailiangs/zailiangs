@@ -1,6 +1,6 @@
-# Hi !  <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> Nice to meet you
+# Hi ! <img src="https://raw.githubusercontent.com/zailiangs/zailiangs/master/imgs/wave.gif" width="22px"> Nice to meet you
 
-#### [Chinese introduction](./README_CN.md)  
+##### [Chinese introduction](./README_CN.md)
 
 <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=Back-end+web+and+app+developer;4+years+of+coding+experience;Always+learning+new+things"/>  
 
@@ -14,9 +14,9 @@
 
 <img src="./imgs/coding.gif" align="right" width="150px">
 
-- 📝 **My Blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
+- 📝 **My blog:** <a href="https://zailiangs.com" target="_blank">zailiangs.com</a>
 
-- 📧 **My Email:** zailiangs@outlook.com
+- 📧 **My email:** zailiangs@outlook.com
 
 - 🧑‍💻 **Position:** Back-end development
 
@@ -71,5 +71,7 @@
 
 ###### If you are interested in me, you can add my <u>Wechat</u> or <u>Twitter</u> for further communication. 🤝
 <p align="center">
-    <a href="https://www.wechat.com/en" target="_blank"><img src="https://img.shields.io/badge/WeChat ID-iZailiang-438a32.svg?logo=wechat" /> </a> 
+    <a href="https://www.wechat.com/en" target="_blank">
+    <img src="https://img.shields.io/badge/WeChat ID-iZailiang-438a32.svg?logo=wechat" /> 
+    </a> 
 </p>
