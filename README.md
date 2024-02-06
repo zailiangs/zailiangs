@@ -69,7 +69,7 @@
 
 ---
 
-###### If you are interested in me, you can add my <u>Wechat</u> or <u>Twitter</u> for further communication. 🤝
+###### If you are interested in me, you can add my <u>Wechat</u> or <u>𝕏(Twitter)</u> for further communication. 🤝
 <p align="center">
     <a href="https://www.wechat.com/en" target="_blank">
     <img src="https://img.shields.io/badge/WeChat ID-iZailiang-438a32.svg?logo=wechat" /> 
