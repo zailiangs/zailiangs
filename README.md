@@ -2,12 +2,13 @@
 
 ##### [Chinese introduction](./README_CN.md)
 
-<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=22&duration=2000&pause=500&color=F75C7E&multiline=true&width=800&height=100&lines=Full-Stack+developer;4+years+of+coding+experience;Always+learning+new+things"/>  
-
 > My name is <a href="https://zailiangs.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Roboto&vCenter=true&duration=3000&pause=500&width=1000&height=40&size=26&lines=Zailiang+Sun;%E5%AD%99%E5%86%8D%E4%BA%AE" /></a> 
-> A software developer from **Nanjing, China**.  
+> A software developer from **Nanjing, China**.
+> Full-stack developer.
+> 4 years of coding experience.
 > Open source enthusiast.  
 > Enjoy Genshin Impact.
+> Alwayslearning new things.
 
 ---
 
