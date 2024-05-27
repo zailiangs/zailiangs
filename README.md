@@ -9,7 +9,7 @@ My name is <a href="https://zailiangs.com" target="_blank"><img src="https://rea
 > 4 years of coding experience.  
 > Open source enthusiast.  
 > Enjoy Genshin Impact.  
-> Alwayslearning new things.  
+> Always learning new things.  
 
 ---
 
