@@ -6,6 +6,6 @@ $ cat /proc/self/environ
 | | | |  __/ | | (_) |
 |_| |_|\___|_|_|\___/
 
-NAME=Zailiang
+NAME=Zailiang Sun
 LANGUAGE=Python, Typescript, Java, Shell, SQL, HTML, CSS, Cypher, Markdown
 ```
